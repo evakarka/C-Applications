@@ -1,2 +1,2 @@
-# C#-Applications
+# C# Applications
 My C# console applications
